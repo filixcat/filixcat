@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @filixcat
+- 👀 I’m interested in ...
+python3
+- 🌱 I’m currently learning ...
+centos linux red hat ubuntu python AI
+- 💞️ I’m looking to collaborate on ...
+python3 requests bs4
+- 📫 How to reach me ...
+email：filixbox@163.com
+<!---
+filixcat/filixcat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
